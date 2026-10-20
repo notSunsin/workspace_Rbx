@@ -1,0 +1,6 @@
+return {
+	RemoteEvent = {
+		"ShowUI",
+		"Input",
+	},
+}

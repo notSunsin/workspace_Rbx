@@ -1,0 +1,6 @@
+return {
+	RemoteFunction = {
+		"Purchase",
+		"CanPurchase",
+	},
+}

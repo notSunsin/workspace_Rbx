@@ -1,0 +1,5 @@
+return {
+	BindableFunction = {
+		"PlayEmote",
+	},
+}

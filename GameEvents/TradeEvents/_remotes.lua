@@ -1,0 +1,26 @@
+return {
+	RemoteFunction = {
+		"FetchHistory",
+		"ViewInventory",
+		"SetPin",
+		"DisablePin",
+		"ReplyPinRequest",
+	},
+	RemoteEvent = {
+		"RespondRequest",
+		"SendRequest",
+		"UpdateTradeState",
+		"Accept",
+		"Decline",
+		"AddItem",
+		"RemoveItem",
+		"Confirm",
+		"SetSheckles",
+		"SetTokens",
+		"AddToHistory",
+		"SetViewInventoryPermission",
+		"RequestPin",
+		"SetUnfairTradeWarning",
+		"SetTradeRequestPermission",
+	},
+}

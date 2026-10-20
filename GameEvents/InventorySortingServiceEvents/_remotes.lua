@@ -1,0 +1,6 @@
+return {
+	RemoteEvent = {
+		"MoveEntry",
+		"SetHotbar",
+	},
+}

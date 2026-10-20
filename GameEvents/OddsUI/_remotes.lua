@@ -1,0 +1,6 @@
+return {
+	RemoteEvent = {
+		"OpenPetEggOddsRE",
+		"OpenBeeEventEggOddsRE",
+	},
+}

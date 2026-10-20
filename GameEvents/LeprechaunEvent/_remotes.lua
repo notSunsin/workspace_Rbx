@@ -1,0 +1,5 @@
+return {
+	RemoteEvent = {
+		"ForceEvent",
+	},
+}

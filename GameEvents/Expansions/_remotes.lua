@@ -1,0 +1,6 @@
+return {
+	RemoteEvent = {
+		"Expand",
+		"SkipTimer",
+	},
+}

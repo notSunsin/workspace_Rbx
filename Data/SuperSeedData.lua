@@ -1,0 +1,3 @@
+-- Decompiled with Potassium's decompiler.
+
+return { "Carrot", "Tomato", "Strawberry", "Blueberry", "Corn", "Pumpkin", "Watermelon", "Apple", "Coconut", "Dragon Fruit", "Bamboo", "Pineapple", "Cactus", "Grape", "Buttercup", "Daffodil", "Mango", "Mushroom", "Pepper", "Cacao", "Beanstalk", "Ember Lily", "Sugar Apple", "Burning Bud", "Giant Pinecone", "Elder Strawberry", "Romanesco", "Crimson Thorn", "Zebrazinkle" };

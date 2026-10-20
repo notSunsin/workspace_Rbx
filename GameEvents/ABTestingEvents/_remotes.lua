@@ -1,0 +1,6 @@
+return {
+	BindableEvent = {
+		"ReSetupShopFrames",
+		"HideInventoryItem",
+	},
+}

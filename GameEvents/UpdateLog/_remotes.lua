@@ -1,0 +1,6 @@
+return {
+	RemoteEvent = {
+		"ViewUpdateLog",
+		"ForceOpen",
+	},
+}

@@ -1,0 +1,6 @@
+return {
+	RemoteEvent = {
+		"SubmitHeldRE",
+		"SubmitAllRE",
+	},
+}

@@ -1,0 +1,6 @@
+return {
+	RemoteEvent = {
+		"RemoveCommandRequest",
+		"CreateCommandRequest",
+	},
+}

@@ -1,0 +1,11 @@
+-- Decompiled with Potassium's decompiler.
+
+return {
+    MIN_DIGGING_GRID_SIZE = 6,
+    MAX_DIGGING_GRID_SIZE = 7,
+    MAX_DIGS_AVALIABLE = 10,
+    DIGS_REFRESH_TIME = 7200,
+    MIN_TREASURE_AMOUNT = 4,
+    MAX_TREASURE_AMOUNT = 7,
+    RESTART_SHECKLES_COST = 1000000000000
+};

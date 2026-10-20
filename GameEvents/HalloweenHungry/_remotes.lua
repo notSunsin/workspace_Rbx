@@ -1,0 +1,6 @@
+return {
+	RemoteEvent = {
+		"Submit",
+		"SubmitResult",
+	},
+}
